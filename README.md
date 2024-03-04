@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on web applications and game development.
+I am currently working on web applications
 
 
 ## 🌐 Socials:
